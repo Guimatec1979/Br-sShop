@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145441867023",
+    "firebase_url": "https://brasshop-aae9d.firebaseio.com",
+    "project_id": "brasshop-aae9d",
+    "storage_bucket": "brasshop-aae9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145441867023:android:55112d8c9027da68",
+        "android_client_info": {
+          "package_name": "br.com.app.guimatec.brasshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145441867023-7c7hkft28dh47ks4vu5c68qj2lct8qbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.app.guimatec.brasshop",
+            "certificate_hash": "244e72500bfe849fc049579a1791a0c407812322"
+          }
+        },
+        {
+          "client_id": "145441867023-k2p4blibe74t62bva18j1d7b4uovb5fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAleDkYGEW9Ep2rXVk3veXUa4rOqpIbNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145441867023-k2p4blibe74t62bva18j1d7b4uovb5fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

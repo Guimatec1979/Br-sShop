@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">BrásShop</string>
+    <string name="title_activity_meus_anuncios">Meus Anúncios</string>
+
+    <string-array name="estado">
+
+        <item>PA</item>
+    </string-array>
+
+    <string-array name="categorias">
+        <item>Automóveis</item>
+        <item>Agências de viagens</item>
+        <item>Artesanato</item>
+        <item>Alimentação saudável</item>
+        <item>Alfaiataria</item>
+        <item>Antiquário</item>
+        <item>Banca de jornal</item>
+        <item>Borracharia</item>
+        <item>Balada</item>
+        <item>Bares</item>
+        <item>Brechó</item>
+        <item>Botillería</item>
+        <item>Cabeleireiro</item>
+        <item>Chocolate</item>
+        <item>Calçados</item>
+        <item>Clínica de estética</item>
+        <item>Coffee Shop</item>
+        <item>Cibercafé</item>
+        <item>Casa lotérica</item>
+        <item>Drograria</item>
+        <item>Empório</item>
+        <item>Eletrônicos</item>
+        <item>Farmácia</item>
+        <item>Galeria de arte</item>
+        <item>Gráfica</item>
+        <item>Hotéis</item>
+        <item>LAN House</item>
+        <item>Loja de brinquedos</item>
+        <item>Loja de conveniência</item>
+        <item>Loja de cosmético</item>
+        <item>Lavanderia</item>
+        <item>Moda unissex</item>
+        <item>Moda Fitness</item>
+        <item>Papelaria</item>
+        <item>Perfumaria</item>
+        <item>Pet shop</item>
+        <item>Posto de abastecimento</item>
+        <item>Pub</item>
+        <item>Padarias</item>
+        <item>Restaurantes</item>
+        <item>Salão de beleza</item>
+        <item>Sex shop</item>
+        <item>Sorveteria</item>
+        <item>Tabacaria</item>
+        <item>Taberna</item>
+        <item>Venda de açaí</item>
+
+
+    </string-array>
+</resources>
